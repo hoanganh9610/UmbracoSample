@@ -1,0 +1,12 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/umbracoSample.Web/App_Data
+/umbracoSample.Web/bin
+/umbracoSample.Web/obj/Debug
+/umbracoSample.Web/Umbraco
+/packages
+/umbracoSample.Core/bin/Debug
+/umbracoSample.Core/obj/Debug
